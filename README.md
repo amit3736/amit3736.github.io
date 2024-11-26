@@ -38,4 +38,4 @@ A python program for personal diary.
 
 ## Contact Me  
 Feel free to reach out if you'd like to collaborate or just say hello!  
-- Email: [Atulkumar40198@gmail.com](aranjan946@gmail.com)  
+- Email: (aranjan946@gmail.com)  
