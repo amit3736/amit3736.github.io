@@ -29,7 +29,7 @@ A tool to generate secure random passwords.
 A Python-based project that has a game called tic-tac-toe.
 
 ### [4. Presonal_Dairy](https://github.com/amit3736/Personal_dairy)
-A task management app built with Tkinter, where users can track their to-do lists.
+A python program for personal diary.
 
 ### 5.[Class_work & Assignment](https://github.com/amit3736/B1B2NEW)
 
